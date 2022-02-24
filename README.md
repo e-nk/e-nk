@@ -13,9 +13,9 @@ I'm currently an Intern Software Engineer at JP Morgan Chase & Co. I've complete
 
 
 [<br><p align='center'> <img src="https://img.shields.io/badge/website-e-nk.github.io-green?style=for-the-badge&logo=appveyor"/>][1]
-[<img src="https://img.shields.io/badge/email-enocklagat747@gmail.com-orange?style=for-the-badge&logo=google"/>][2]
+[<img src="https://img.shields.io/badge/Gmail-enocklagat747@gmail.com-orange?style=for-the-badge&logo=google"/>][2]
 [<img src="https://img.shields.io/badge/linkedin-enocklagat-blue?style=for-the-badge&logo=linkedin"/>][3]
-[<img src="https://img.shields.io/badge/twitter-en_k_l-lightblue?style=for-the-badge&logo=twitter"/>][4]
+[<img src="https://img.shields.io/badge/twitter.com/en_k_l-lightblue?style=for-the-badge&logo=twitter"/>][4]
 
 
 :computer: Tech Stack: 
