@@ -1,5 +1,6 @@
 <h1>Hi There! I'm Enock Lagat ! <img src="https://media.giphy.com/media/tu33e5fsyK6D6/giphy.gif" width="40" height="35"></h1>
 
+![me](https://user-images.githubusercontent.com/59821335/155590676-0be1958f-98f6-4b49-8e68-bc950bfdb745.jpg)
 <img align='right' src="/me.jpg" width="400">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/en_k_l?style=social)](https://twitter.com/en_k_l)
@@ -58,4 +59,4 @@ If you don't find me coding/writing I'll most likely be:
  
  
 
-![me](https://user-images.githubusercontent.com/59821335/155590676-0be1958f-98f6-4b49-8e68-bc950bfdb745.jpg)
+
