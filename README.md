@@ -2,7 +2,6 @@
 
 <img align='right' src="/me.jpg" width="400">
 
-![](https://komarev.com/ghpvc/?username=en_k_l&style=flat-square)
 [![Twitter Follow](https://img.shields.io/twitter/follow/en_k_l?style=social)](https://twitter.com/en_k_l)
 
 [![GitHub followers](https://img.shields.io/github/followers/e-nk?style=social)](https://github.com/e-nk)
