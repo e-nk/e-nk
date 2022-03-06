@@ -7,8 +7,7 @@
 I'm currently an Intern Software Engineer at JP Morgan Chase & Co. I've completed my bachelors at University of Eastern Africa, Baraton. Here's a peek at my professional life timeline!
 
 
-- Frelance Software developer:[@upwork](https://upwork.com)
--                             [@fiverr](https://fiverr.com)
+- Frelance Software developer:[@upwork](https://upwork.com), [@fiverr](https://fiverr.com)
 
 
 [<br><p align='center'> <img src="https://img.shields.io/badge/website-enocklagat.com-green?style=for-the-badge&logo=appveyor"/>][1]
