@@ -4,7 +4,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/e-nk?style=social)](https://github.com/e-nk)
 
-I'm currently an Intern Software Engineer at Wezatec Solutions. Here's a peek at my professional life timeline!
+I'm currently a Software Engineering student at Moringa School. Here's a peek at my professional life timeline!
 
 
 - Frelance Software developer:[@upwork](https://upwork.com), [@fiverr](https://fiverr.com)
@@ -38,7 +38,7 @@ I'm currently an Intern Software Engineer at Wezatec Solutions. Here's a peek at
 </br>
 
 If you don't find me coding/writing I'll most likely be:
-1. Watching science-fiction
+1. Watching History documentaries and science-fiction movies
 2. Listening to music and podcasts
 
 
