@@ -1,4 +1,4 @@
-<h1>Hi There! I'm Enock Lagat ! <img src="https://media.giphy.com/media/tu33e5fsyK6D6/giphy.gif" width="150" height="90"></h1>
+<h1>Hi There! I'm Enock Lagat ! </h1>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/en_k_l?style=social)](https://twitter.com/en_k_l)
 
