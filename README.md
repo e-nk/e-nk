@@ -30,11 +30,11 @@ Here's a peek at my professional life timeline!
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Reactjs](https://img.shields.io/badge/reactjs-%231572B6.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23E34F26.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23E34F26.svg?style=for-the-badge&logo=rubyonrails&logoColor=white)
-![Python](https://img.shields.io/badge/python-6DA55F?style=for-the-badge&logo=python&logoColor=blue)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/python-6DA55F?style=for-the-badge&logo=python&logoColor=blue)
 ![Flutter](https://img.shields.io/badge/flutter-%231572B6.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![CSS3](https://img.shields.io/badge/neo4j-%231572B6.svg?style=for-the-badge&logo=neo4j&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%231572B6.svg?style=for-the-badge&logo=PHP&logoColor=white)
 
 </br>
 
