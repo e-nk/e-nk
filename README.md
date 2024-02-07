@@ -1,4 +1,4 @@
-<h1>Hi There! I'm Enock Lagat ! </h1>
+<h1>Hi There! I'm Enock Kipkoech ! </h1>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/en_k_l?style=social)](https://twitter.com/en_k_l)
 
@@ -7,7 +7,7 @@
 Here's a peek at my professional life timeline!
 
 
-- Backend Developer: [@tageunlimited](https://www.tageunlimited.shop)
+- Web Developer: [@idealcis](https://idealcis.com)
 - Software Developer: [@smarttechsolutions}
 - Frelance Software developer:[@fiverr](https://fiverr.com)
 
