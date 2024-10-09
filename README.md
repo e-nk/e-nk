@@ -9,7 +9,7 @@ Here's a peek at my professional life timeline!
 
 - Web Developer: [@idealcis](https://idealcis.com)
 - Software Developer: [@smarttechsolutions}
-- Frelance Software developer:[@fiverr](https://fiverr.com)
+- Frelance Software developer:[@fiverr](https://www.fiverr.com/e_nklagat)
 
 
 [<br><p align='center'> <img src="https://img.shields.io/badge/website-enocklagat.com-green?style=for-the-badge&logo=appveyor"/>][1]
