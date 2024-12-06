@@ -7,8 +7,7 @@
 Here's a peek at my professional life timeline!
 
 
-- Web Developer: [@idealcis](https://idealcis.com)
-- Software Developer: [@smarttechsolutions}
+- Software Developer: [@idealcis](https://idealcis.com)
 - Frelance Software developer:[@fiverr](https://www.fiverr.com/e_nklagat)
 
 
