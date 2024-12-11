@@ -44,7 +44,7 @@ If you don't find me coding/writing I'll most likely be:
 
 <br/>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=e-nk&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085"></p>](url)
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=e-nk&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085"></p>
 
 
  [1]: https://enocklagat.com/
