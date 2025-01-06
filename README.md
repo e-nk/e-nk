@@ -1,9 +1,5 @@
 <h1>Hi There! I'm Enock Kipkoech ! </h1>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/en_k_l?style=social)](https://twitter.com/en_k_l)
-
-[![GitHub followers](https://img.shields.io/github/followers/e-nk?style=social)](https://github.com/e-nk)
-
 Here's a peek at my professional life timeline!
 
 
@@ -14,8 +10,6 @@ Here's a peek at my professional life timeline!
 [<br><p align='center'> <img src="https://img.shields.io/badge/website-enocklagat.com-green?style=for-the-badge&logo=appveyor"/>][1]
 [<img src="https://img.shields.io/badge/Gmail-enocklagatson@gmail.com-orange?style=for-the-badge&logo=google"/>][2]
 [<img src="https://img.shields.io/badge/linkedin-enocklagat-blue?style=for-the-badge&logo=linkedin"/>][3]
-[<img src="https://img.shields.io/badge/twitter/en_k_l-lightblue?style=for-the-badge&logo=twitter"/>][4]
-
 
 :computer: Tech Stack: 
 
