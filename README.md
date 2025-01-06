@@ -1,4 +1,4 @@
-# 👋 Hi There! I'm Enock - The Code Whisperer
+# 👋 Hi There! I'm Enock - Building digital solutions
 
 Software sorcerer by day, history buff by night. Currently casting spells at [@idealcis](https://idealcis.com)
 
