@@ -9,4 +9,5 @@ Need some tech magic? Find me on [Fiverr](https://www.fiverr.com/e_nklagat) ✨
 - 🔗 [LinkedIn](https://www.linkedin.com/in/enock-lagat/)
 - 🌐 [Website](https://enocklagat.com)
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=e-nk&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085"></p>
+
+<p align="center">[![GitHub Streak](https://streak-stats.demolab.com/?user=e-nk)](https://git.io/streak-stats)</p>
