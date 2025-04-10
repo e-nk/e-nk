@@ -1,10 +1,17 @@
-# 👋 Hi There! I'm Enock - 
+# 👋 Hi there, I'm Enock
 
-Software sorcerer by day, history buff by night. Currently casting spells at [@idealcis](https://idealcis.com)
+Full-stack developer with a love for clean code, clever solutions, and the occasional deep dive into world history.  
+Currently building cool things at [@idealcis](https://idealcis.com).
 
-Need some tech magic? Find me on [Fiverr](https://www.fiverr.com/e_nklagat) ✨
+Need a hand with your next tech project? I'm also available on [Fiverr](https://www.fiverr.com/e_nklagat). Let's make something awesome.
 
-## Let's Connect!
-- 📧 [enocklagatson@gmail.com](mailto:enocklagatson@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/enock-lagat/)
-- 🌐 [Website](https://enocklagat.com)
+---
+
+## 📬 Let's Connect
+
+- 📧 Email: [enocklagatson@gmail.com](mailto:enocklagatson@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/enock-lagat](https://www.linkedin.com/in/enock-lagat/)  
+
+---
+
+> Writing code people love to read, and building products people love to use.
